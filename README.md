@@ -9,3 +9,9 @@ Program ini berfokus pada penerapan regresi linier dalam Machine Learning, dalam
 - Linear Regression
 - Practical Machine Learning
 - Assessment
+
+<br>
+
+_Sedang mengalami kendala? [temukan jawabannya disini](https://github.com/techreadyid/p3mllr/discussions/categories/q-a)_
+
+_Jangan lupa untuk cek update [disini](https://github.com/techreadyid/p3mllr/discussions/categories/announcements)_
